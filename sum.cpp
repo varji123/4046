@@ -9,5 +9,5 @@ cin>>a>>b;
 }
 void add()
 {
-  
+  cout<<"this is the addition function"<<endl;
 }
