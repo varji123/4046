@@ -1,4 +1,5 @@
 #include<iosteram>
+void add();
 int main()
 {
   int a, b;
