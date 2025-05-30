@@ -12,3 +12,5 @@ void add(int x,int y)
   cout<<"this is the addition function"<<endl;
   cout<<x+y;
 }
+return 0;
+}
